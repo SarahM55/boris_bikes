@@ -1,0 +1,3 @@
+desribe DockingStation do
+    
+end
