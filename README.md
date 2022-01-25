@@ -14,3 +14,4 @@ A program to emulate the docking stations, bikes and infrastructure (repairs etc
  - Passing your first Unit Test ✅
  - Back to the feature ✅
  - Back to the unit ✅
+ - Building a bike 
