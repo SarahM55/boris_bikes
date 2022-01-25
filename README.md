@@ -11,4 +11,5 @@ A program to emulate the docking stations, bikes and infrastructure (repairs etc
  - From a Domain Model to a Feature Test irb ✅
  - Errors are good ✅
  - From Feature Tests to Unit Tests ✅
- - Passing your first Unit Test
+ - Passing your first Unit Test ✅
+ - Back to the feature ✅
