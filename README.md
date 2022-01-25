@@ -6,4 +6,5 @@ A program to emulate the docking stations, bikes and infrastructure (repairs etc
 ...
 
 # Tracking the challenge questions
- - Setting up a project
+ - Setting up a project ✅
+ - From User Stories to a Domain Model ✅
