@@ -9,3 +9,4 @@ A program to emulate the docking stations, bikes and infrastructure (repairs etc
  - Setting up a project ✅
  - From User Stories to a Domain Model ✅
  - From a Domain Model to a Feature Test irb ✅
+ - Errors are good ✅
