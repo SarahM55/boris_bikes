@@ -2,7 +2,7 @@ From User Stories to a Domain Model
 
 Objects	           Messages
 person	
-bike               working
-docking station	   release
+bike               working?
+docking station	   release_bike
 
 Diagram - https://app.creately.com/diagram/Np6scxgARVC/edit
