@@ -1,10 +1,9 @@
 require_relative '../lib/docking_station.rb'
 
 describe DockingStation do
-  describe "#release_bike" do  
-    it "should respond to the method release_bike" do
-      docking_station = DockingStation.new
-      expect(docking_station).to respond_to(:release_bike)
-    end
+  it { expect(DockingStation.new).to respond_to(:release_bike) }
+  it 'releases working bikes' do
+    bike = subject.release_bike
+    expect(bike).to be_working
   end
 end
