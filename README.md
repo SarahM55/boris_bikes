@@ -17,4 +17,6 @@ A program to emulate the docking stations, bikes and infrastructure (repairs etc
  - Building a bike ✅
  - Making Docking Stations Release Bikes ✅
  - Using Instance Variables ✅
+ - Raising Exceptions ✅
+ - Limiting Capacity ✅
  
