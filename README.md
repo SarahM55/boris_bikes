@@ -19,4 +19,5 @@ A program to emulate the docking stations, bikes and infrastructure (repairs etc
  - Using Instance Variables ✅
  - Raising Exceptions ✅
  - Limiting Capacity ✅
+ - Wrapping Collections ✅
  
